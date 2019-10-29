@@ -13,13 +13,20 @@
     "url": "git+https://github.com/OXOYO/formio.js.zh.git"
   },
   "keywords": [
-    "formio.js",
-    "zh"
+    "formio.js"
   ],
   "author": "OXOYO",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/OXOYO/formio.js.zh/issues"
   },
-  "homepage": "https://github.com/OXOYO/formio.js.zh#readme"
+  "homepage": "https://github.com/OXOYO/formio.js.zh#readme",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-rc.1",
+    "@vuepress/plugin-back-to-top": "^1.0.0-rc.1",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "moment": "^2.24.0"
+  }
 }
