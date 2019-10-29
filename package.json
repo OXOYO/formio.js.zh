@@ -1,0 +1,25 @@
+{
+  "name": "formio.js.zh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OXOYO/formio.js.zh.git"
+  },
+  "keywords": [
+    "formio.js",
+    "zh"
+  ],
+  "author": "OXOYO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OXOYO/formio.js.zh/issues"
+  },
+  "homepage": "https://github.com/OXOYO/formio.js.zh#readme"
+}
